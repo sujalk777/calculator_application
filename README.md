@@ -1,7 +1,7 @@
-# COL106 Assignment 2 - Calculator Application
+# Calculator Application
 
 ## Overview
-This repository contains a C++ implementation of a calculator application as part of the COL106 course assignment. The project utilizes various data structures such as linked lists and stacks to efficiently handle and evaluate mathematical expressions.
+This repository contains a C++ implementation of a calculator application. The project utilizes various data structures such as linked lists and stacks to efficiently handle and evaluate mathematical expressions.
 
 ## Features
 - Supports basic arithmetic operations.
